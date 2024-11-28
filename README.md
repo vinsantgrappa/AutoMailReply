@@ -52,7 +52,7 @@
 
 ### 自動ログインとメール返信、ダウンロード
 以下のGIFが動作例です：
-[assets/process_demo.gif](https://github.com/vinsantgrappa/AutoMailReply/blob/main/assets/process_demo.gif)
+![process_demo](https://github.com/user-attachments/assets/38245ac2-ed8f-44a0-ba54-ddf08feff653)
 
 ---
 

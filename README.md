@@ -52,7 +52,8 @@
 
 ### 自動ログインとメール返信、ダウンロード
 以下のGIFが動作例です：
-![メール返信&ダウンロード デモ](./assets/mail_auto_process_demo.gif)
+(assets/process_demo.gif)
+
 ---
 
 ## モジュール構成
